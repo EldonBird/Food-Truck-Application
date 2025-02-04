@@ -1,0 +1,23 @@
+{
+  "_menuItems": [
+    {
+      "_cookTimeinSeconds": 0,
+      "_price": 10,
+      "_cost": 1,
+      "_startTime": "2024-12-15T01:30:29.693379-07:00",
+      "_started": true,
+      "_name": "Baja Blast"
+    },
+    {
+      "_cookTimeinSeconds": 20,
+      "_price": 10,
+      "_cost": 1,
+      "_startTime": "2024-12-15T01:30:29.6933795-07:00",
+      "_started": true,
+      "_name": "Deep Fried Butter"
+    }
+  ],
+  "_orderid": 3293909,
+  "OrderName": null,
+  "_created": "2024-12-15T01:30:27.4189501-07:00"
+}

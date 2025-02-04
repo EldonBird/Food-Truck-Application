@@ -1,0 +1,23 @@
+{
+  "_menuItems": [
+    {
+      "_cookTimeinSeconds": 20,
+      "_price": 10,
+      "_cost": 1,
+      "_startTime": "2024-12-15T01:30:19.6794671-07:00",
+      "_started": true,
+      "_name": "Deep Fried Butter"
+    },
+    {
+      "_cookTimeinSeconds": 30,
+      "_price": 10,
+      "_cost": 9,
+      "_startTime": "2024-12-15T01:30:19.6794683-07:00",
+      "_started": true,
+      "_name": "microwaved salad"
+    }
+  ],
+  "_orderid": 5447512,
+  "OrderName": null,
+  "_created": "2024-12-15T01:30:16.6198388-07:00"
+}

@@ -1,0 +1,31 @@
+{
+  "_menuItems": [
+    {
+      "_cookTimeinSeconds": 10,
+      "_price": 10,
+      "_cost": 3,
+      "_startTime": "2024-12-16T17:37:49.132233-07:00",
+      "_started": true,
+      "_name": "Deep Fried Oreos"
+    },
+    {
+      "_cookTimeinSeconds": 20,
+      "_price": 10,
+      "_cost": 1,
+      "_startTime": "2024-12-16T17:37:49.1322357-07:00",
+      "_started": true,
+      "_name": "Deep Fried Butter"
+    },
+    {
+      "_cookTimeinSeconds": 30,
+      "_price": 10,
+      "_cost": 9,
+      "_startTime": "2024-12-16T17:37:49.1322363-07:00",
+      "_started": true,
+      "_name": "microwaved salad"
+    }
+  ],
+  "_orderid": 5930392,
+  "OrderName": null,
+  "_created": "2024-12-16T17:37:48.5905748-07:00"
+}
