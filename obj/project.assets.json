@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\My software\\CSE210-hw\\final\\FinalProject\\FinalProject.csproj",
+      "projectUniqueName": "D:\\Projects\\My software\\Food-Truck-Application\\FinalProject.csproj",
       "projectName": "FinalProject",
-      "projectPath": "D:\\Projects\\My software\\CSE210-hw\\final\\FinalProject\\FinalProject.csproj",
+      "projectPath": "D:\\Projects\\My software\\Food-Truck-Application\\FinalProject.csproj",
       "packagesPath": "C:\\Users\\Birdh\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\My software\\CSE210-hw\\final\\FinalProject\\obj\\",
+      "outputPath": "D:\\Projects\\My software\\Food-Truck-Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Birdh\\AppData\\Roaming\\NuGet\\NuGet.Config"
